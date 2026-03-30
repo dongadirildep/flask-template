@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Improved error handling in edge cases
 - Ran linter, applied auto-fixes
+
+## 2026-03-30
+- Tested build on clean environment
+- Fixed minor edge case in input handling
+- Cross-checked behaviour against spec
