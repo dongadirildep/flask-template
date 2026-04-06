@@ -22,3 +22,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Fixed off-by-one error in loop
 - Documented config options
+
+## 2026-04-06
+- Updated dependencies to latest stable versions
+- Cleaned up old debug logs
+- Documented config options
